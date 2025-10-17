@@ -16,7 +16,7 @@ import os
 
 # ---------------- CONFIG ----------------
 MODEL_VEHICLE = "yolov8n.pt"
-VIDEO_SOURCE = "video.mp4"  # Change to 0 for webcam on local PC
+VIDEO_SOURCE = "video2.mp4"  # Change to 0 for webcam on local PC
 SERIAL_PORT = None
 SERIAL_BAUD = 9600
 DETECT_VEHICLE_CLASSES = [2, 3, 5, 7]  # car, motorcycle, bus, truck
